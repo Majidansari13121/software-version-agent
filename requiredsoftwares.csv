@@ -1,0 +1,5 @@
+﻿sno,name,version,url
+1,Python,3.12,https://www.python.org/downloads/
+2,Git,2.40,https://git-scm.com/downloads
+3,Node.js,,https://nodejs.org/en/download
+4,uv,,https://github.com/astral-sh/uv/releases
